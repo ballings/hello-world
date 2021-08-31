@@ -1,5 +1,5 @@
 # hello-world
-a  test
+a test
 This the original file.
 
 
